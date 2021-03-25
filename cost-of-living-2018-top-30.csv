@@ -63,138 +63,138 @@ City,Cost_of_Living_Index,Rent_Index,Cost_of_Living_Plus_Rent_Index,Groceries_In
 "Leuven, Belgium",85.31,29.48,58.38,79.81,86.88,92.44,Belgium,Europe,Leuven
 "Gent, Belgium",85.16,26.92,57.07,72.2,94.01,96.27,Belgium,Europe,Gent
 "Brussels, Belgium",83.65,35.76,60.55,72.55,96.1,104.35,Belgium,Europe,Brussels
-"New York, NY, United States",100.0,100.0,100.0,100.0,100.0,100.0,United States,North America,New York
-"San Francisco, CA, United States",97.84,115.36,106.29,107.52,91.06,92.96,United States,North America,San Francisco
-"Anchorage, AK, United States",94.99,40.12,68.53,101.18,84.55,124.92,United States,North America,Anchorage
-"Honolulu, HI, United States",94.15,62.82,79.04,104.69,82.86,103.08,United States,North America,Honolulu
-"Brooklyn, NY, United States",93.79,76.24,85.33,92.73,100.58,87.04,United States,North America,Brooklyn
-"Rockville, MD, United States",92.66,64.0,78.84,87.76,74.74,130.79,United States,North America,Rockville
-"Bloomington, IN, United States",92.14,33.64,63.93,112.83,75.43,96.92,United States,North America,Bloomington
-"Washington, DC, United States",91.94,73.3,82.95,92.74,85.0,120.62,United States,North America,Washington
-"Santa Rosa, CA, United States",90.23,58.13,74.75,92.05,78.34,106.77,United States,North America,Santa Rosa
-"Arlington, VA, United States",89.2,61.85,76.01,88.51,82.63,120.53,United States,North America,Arlington
-"Bellevue, WA, United States",88.85,66.67,78.15,88.43,80.99,73.46,United States,North America,Bellevue
-"Seattle, WA, United States",88.04,64.41,76.64,89.85,83.22,144.6,United States,North America,Seattle
-"Berkeley, CA, United States",87.82,78.69,83.42,97.88,78.29,115.84,United States,North America,Berkeley
-"Boston, MA, United States",87.05,78.72,83.03,88.99,86.2,101.35,United States,North America,Boston
-"Charleston, SC, United States",86.19,45.99,66.8,98.41,71.87,115.41,United States,North America,Charleston
-"Miami, FL, United States",86.01,63.2,75.01,87.37,95.81,97.81,United States,North America,Miami
-"Oakland, CA, United States",85.11,79.57,82.44,88.65,81.38,97.94,United States,North America,Oakland
-"New Haven, CT, United States",84.13,47.53,66.48,92.86,86.18,127.41,United States,North America,New Haven
-"Irvine, CA, United States",83.73,66.26,75.3,89.49,76.5,139.48,United States,North America,Irvine
-"Philadelphia, PA, United States",83.46,48.09,66.4,82.24,79.37,116.06,United States,North America,Philadelphia
-"San Jose, CA, United States",82.87,81.81,82.36,85.4,83.12,134.82,United States,North America,San Jose
-"Tacoma, WA, United States",82.54,36.82,60.49,88.02,72.46,125.1,United States,North America,Tacoma
-"Los Angeles, CA, United States",82.3,68.75,75.77,82.73,82.48,109.01,United States,North America,Los Angeles
-"Boulder, CO, United States",82.19,53.8,68.5,86.22,74.92,143.02,United States,North America,Boulder
-"Portland, ME, United States",81.6,40.73,61.89,86.96,88.58,113.69,United States,North America,Portland
-"Minneapolis, MN, United States",81.46,45.65,64.19,87.48,75.88,131.08,United States,North America,Minneapolis
-"Norfolk, VA, United States",81.36,43.59,63.14,90.06,81.31,64.42,United States,North America,Norfolk
-"Hartford, CT, United States",80.86,42.15,62.19,78.41,86.26,101.57,United States,North America,Hartford
-"Queens, NY, United States",80.77,64.73,73.04,74.39,87.27,113.4,United States,North America,Queens
-"Albany, NY, United States",80.19,30.82,56.38,83.35,71.86,139.34,United States,North America,Albany
-"Chicago, IL, United States",80.16,56.71,68.85,79.14,77.99,119.17,United States,North America,Chicago
-"Jersey City, NJ, United States",79.91,66.0,73.2,79.5,85.95,130.99,United States,North America,Jersey City
-"Olympia, WA, United States",79.25,36.06,58.42,77.18,78.7,125.04,United States,North America,Olympia
-"Santa Barbara, CA, United States",79.17,71.45,75.45,76.47,87.43,134.38,United States,North America,Santa Barbara
-"Eugene, OR, United States",78.94,31.38,56.0,91.86,69.07,109.06,United States,North America,Eugene
-"Burlington, VT, United States",78.89,41.89,61.05,82.04,79.41,101.19,United States,North America,Burlington
-"Sacramento, CA, United States",78.75,43.34,61.67,80.02,74.2,135.14,United States,North America,Sacramento
-"Pittsburgh, PA, United States",78.66,39.02,59.54,76.56,70.89,133.38,United States,North America,Pittsburgh
-"Portland, OR, United States",78.45,51.72,65.56,79.56,68.4,125.57,United States,North America,Portland
-"Saint Paul, MN, United States",78.37,40.38,60.05,81.15,74.68,97.64,United States,North America,Saint Paul
-"Long Beach, CA, United States",78.23,54.98,67.01,82.77,76.98,127.25,United States,North America,Long Beach
-"Fort Lauderdale, FL, United States",77.67,51.63,65.11,79.05,77.85,104.35,United States,North America,Fort Lauderdale
-"Everett, WA, United States",77.63,42.48,60.68,84.84,70.29,113.75,United States,North America,Everett
-"Asheville, NC, United States",77.36,37.85,58.31,84.94,72.18,111.73,United States,North America,Asheville
-"Denver, CO, United States",77.31,54.0,66.07,77.48,79.43,130.1,United States,North America,Denver
-"Bellingham, WA, United States",77.13,34.7,56.67,79.09,77.88,131.14,United States,North America,Bellingham
-"Melbourne, FL, United States",77.09,29.38,54.08,85.53,77.04,128.34,United States,North America,Melbourne
-"San Diego, CA, United States",77.01,61.91,69.73,75.09,82.09,142.72,United States,North America,San Diego
-"New Orleans, LA, United States",76.64,40.21,59.07,75.15,84.0,116.56,United States,North America,New Orleans
-"Orlando, FL, United States",76.63,37.35,57.68,82.77,69.38,129.02,United States,North America,Orlando
-"Baltimore, MD, United States",76.57,45.03,61.36,73.92,80.16,116.79,United States,North America,Baltimore
-"Tampa, FL, United States",76.53,42.09,59.92,80.64,80.21,144.43,United States,North America,Tampa
-"West Palm Beach, FL, United States",76.52,43.11,60.41,79.59,78.92,124.36,United States,North America,West Palm Beach
-"Colorado Springs, CO, United States",75.42,31.21,54.1,72.93,76.48,150.89,United States,North America,Colorado Springs
-"Charlotte, NC, United States",75.35,40.62,58.6,79.4,73.87,112.72,United States,North America,Charlotte
-"Plano, TX, United States",75.32,40.02,58.3,73.93,63.49,101.69,United States,North America,Plano
-"Atlanta, GA, United States",74.97,45.83,60.92,75.0,74.81,153.77,United States,North America,Atlanta
-"Fayetteville, AR, United States",74.9,24.85,50.76,81.39,69.15,104.92,United States,North America,Fayetteville
-"Indianapolis, IN, United States",74.72,35.67,55.89,73.92,74.26,94.22,United States,North America,Indianapolis
-"Birmingham, AL, United States",74.64,31.36,53.77,76.12,74.13,134.55,United States,North America,Birmingham
-"Augusta, GA, United States",74.29,22.45,49.29,82.42,62.66,100.38,United States,North America,Augusta
-"Greensboro, NC, United States",74.1,26.05,50.93,80.28,62.04,141.87,United States,North America,Greensboro
-"Greenville, SC, United States",74.08,36.03,55.73,83.74,67.18,127.49,United States,North America,Greenville
-"Jacksonville, FL, United States",73.58,32.27,53.66,77.14,73.25,117.13,United States,North America,Jacksonville
-"Fort Collins, CO, United States",73.57,42.07,58.38,81.45,61.31,73.23,United States,North America,Fort Collins
-"Cleveland, OH, United States",73.47,28.35,51.71,67.52,74.7,146.27,United States,North America,Cleveland
-"Milwaukee, WI, United States",73.37,35.5,55.11,71.9,71.59,139.23,United States,North America,Milwaukee
-"Saint Petersburg, FL, United States",73.29,41.01,57.72,72.82,75.33,145.31,United States,North America,Saint Petersburg
-"Memphis, TN, United States",72.95,27.52,51.04,73.96,70.71,154.91,United States,North America,Memphis
-"Syracuse, NY, United States",72.88,30.77,52.57,72.26,67.76,103.63,United States,North America,Syracuse
-"Newark, NJ, United States",72.68,40.31,57.07,66.47,77.87,94.1,United States,North America,Newark
-"Akron, OH, United States",72.65,21.57,48.02,77.33,63.79,99.21,United States,North America,Akron
-"Austin, TX, United States",72.46,49.8,61.53,73.02,75.56,140.39,United States,North America,Austin
-"Fresno, CA, United States",72.36,30.94,52.38,72.51,75.89,110.71,United States,North America,Fresno
-"Buffalo, NY, United States",72.15,28.94,51.31,69.14,72.72,120.23,United States,North America,Buffalo
-"Shreveport, LA, United States",72.07,25.24,49.48,78.42,64.04,76.03,United States,North America,Shreveport
-"Nashville, TN, United States",71.88,47.73,60.23,74.28,69.38,125.4,United States,North America,Nashville
-"Manchester, NH, United States",71.46,33.61,53.2,76.26,72.86,124.75,United States,North America,Manchester
-"Raleigh, NC, United States",71.4,37.42,55.02,78.32,70.58,131.99,United States,North America,Raleigh
-"Little Rock, AR, United States",71.29,24.83,48.89,77.24,64.98,132.31,United States,North America,Little Rock
-"Richmond, VA, United States",70.98,36.18,54.2,77.66,65.74,133.08,United States,North America,Richmond
-"Las Vegas, NV, United States",70.97,29.98,51.2,66.54,74.53,148.81,United States,North America,Las Vegas
-"Saint Louis, MO, United States",70.76,30.11,51.15,71.33,68.14,144.7,United States,North America,Saint Louis
-"Grand Rapids, MI, United States",70.58,32.95,52.43,69.69,70.77,143.87,United States,North America,Grand Rapids
-"Rochester, NY, United States",70.52,30.31,51.13,72.96,74.66,158.71,United States,North America,Rochester
-"Houston, TX, United States",70.37,44.1,57.7,71.01,71.15,145.38,United States,North America,Houston
-"Detroit, MI, United States",70.2,35.48,53.45,67.02,59.3,131.62,United States,North America,Detroit
-"Ann Arbor, MI, United States",70.01,45.26,58.07,69.31,62.97,163.57,United States,North America,Ann Arbor
-"Harrisburg, PA, United States",69.91,27.78,49.59,72.58,66.41,140.56,United States,North America,Harrisburg
-"Salem, OR, United States",69.81,32.0,51.58,70.61,68.39,106.58,United States,North America,Salem
-"Dayton, OH, United States",69.76,21.96,46.71,73.53,62.38,114.2,United States,North America,Dayton
-"Columbia, SC, United States",69.7,29.48,50.3,75.37,65.65,92.47,United States,North America,Columbia
-"Fort Wayne, IN, United States",69.42,21.43,46.28,74.49,69.24,129.87,United States,North America,Fort Wayne
-"Des Moines, IA, United States",69.37,31.23,50.97,73.45,63.64,125.85,United States,North America,Des Moines
-"Virginia Beach, VA, United States",69.33,37.42,53.94,68.92,71.08,151.73,United States,North America,Virginia Beach
-"Spokane, WA, United States",69.26,26.97,48.86,70.06,64.46,135.55,United States,North America,Spokane
-"Bakersfield, CA, United States",69.2,29.09,49.86,71.91,64.38,120.54,United States,North America,Bakersfield
-"Columbus, OH, United States",69.13,35.51,52.92,66.96,62.16,125.47,United States,North America,Columbus
-"Cincinnati, OH, United States",69.13,31.11,50.79,61.6,70.4,136.92,United States,North America,Cincinnati
-"Kansas City, MO, United States",69.05,29.33,49.89,68.17,63.04,135.76,United States,North America,Kansas City
-"Lincoln, NE, United States",68.61,28.38,49.21,71.56,62.02,124.13,United States,North America,Lincoln
-"Fort Myers, FL, United States",68.06,31.9,50.62,71.88,62.43,86.87,United States,North America,Fort Myers
-"Lexington, KY, United States",67.9,25.51,47.45,69.03,62.48,130.77,United States,North America,Lexington
-"Fort Worth, TX, United States",67.81,35.29,52.12,66.57,65.5,142.22,United States,North America,Fort Worth
-"Omaha, NE, United States",67.8,30.43,49.78,69.41,62.64,134.51,United States,North America,Omaha
-"Vancouver, WA, United States",67.79,34.12,51.55,61.12,67.28,127.95,United States,North America,Vancouver
-"Wichita, KS, United States",67.02,24.63,46.58,67.02,68.1,118.39,United States,North America,Wichita
-"Lubbock, TX, United States",66.9,24.63,46.52,61.64,68.94,133.25,United States,North America,Lubbock
-"Chattanooga, TN, United States",66.89,27.77,48.02,67.8,62.68,145.27,United States,North America,Chattanooga
-"Phoenix, AZ, United States",66.87,33.32,50.69,62.4,71.42,139.29,United States,North America,Phoenix
-"Sioux Falls, SD, United States",66.85,25.7,47.0,69.13,56.18,168.93,United States,North America,Sioux Falls
-"Salt Lake City, UT, United States",66.76,34.91,51.4,64.48,68.75,148.6,United States,North America,Salt Lake City
-"Tulsa, OK, United States",66.71,28.61,48.34,67.6,62.03,123.2,United States,North America,Tulsa
-"Durham, NC, United States",66.44,35.54,51.54,64.75,67.79,146.95,United States,North America,Durham
-"Springfield, MO, United States",66.4,18.79,43.44,73.6,63.28,77.68,United States,North America,Springfield
-"Winston-salem, NC, United States",66.27,24.96,46.34,71.92,69.63,117.44,United States,North America,Winston-salem
-"Dallas, TX, United States",65.94,42.64,54.7,61.95,67.11,162.37,United States,North America,Dallas
-"Albuquerque, NM, United States",65.73,25.5,46.33,68.04,64.58,123.57,United States,North America,Albuquerque
-"Arlington, TX, United States",65.63,30.04,48.47,62.02,63.87,152.9,United States,North America,Arlington
-"Madison, WI, United States",65.6,36.95,51.78,62.5,66.34,144.83,United States,North America,Madison
-"Mobile, AL, United States",65.31,24.63,45.69,67.4,64.09,122.2,United States,North America,Mobile
-"Louisville, KY, United States",65.14,28.33,47.39,65.76,65.91,127.21,United States,North America,Louisville
-"Pensacola, FL, United States",64.88,28.72,47.44,62.12,64.75,128.73,United States,North America,Pensacola
-"Oklahoma City, OK, United States",64.29,26.54,46.09,66.52,58.15,142.4,United States,North America,Oklahoma City
-"Huntsville, AL, United States",63.34,27.45,46.03,64.13,63.83,152.26,United States,North America,Huntsville
-"Tucson, AZ, United States",63.0,23.8,44.1,61.12,63.64,138.07,United States,North America,Tucson
-"Reno, NV, United States",62.88,35.99,49.92,58.04,64.1,136.4,United States,North America,Reno
-"Boise, ID, United States",62.65,28.91,46.37,58.7,65.39,130.86,United States,North America,Boise
-"Knoxville, TN, United States",62.18,29.77,46.55,60.36,64.67,128.69,United States,North America,Knoxville
-"College Station, TX, United States",61.85,32.7,47.79,68.95,57.12,118.7,United States,North America,College Station
-"San Antonio, TX, United States",60.92,34.5,48.18,58.17,60.96,154.92,United States,North America,San Antonio
-"Athens, GA, United States",60.55,26.67,44.21,57.85,59.58,110.52,United States,North America,Athens
+"New York, NY, United States",100.0,100.0,100.0,100.0,100.0,100.0,United States,North America,"New York, NY"
+"San Francisco, CA, United States",97.84,115.36,106.29,107.52,91.06,92.96,United States,North America,"San Francisco, CA"
+"Anchorage, AK, United States",94.99,40.12,68.53,101.18,84.55,124.92,United States,North America,"Anchorage, AK"
+"Honolulu, HI, United States",94.15,62.82,79.04,104.69,82.86,103.08,United States,North America,"Honolulu, HI"
+"Brooklyn, NY, United States",93.79,76.24,85.33,92.73,100.58,87.04,United States,North America,"Brooklyn, NY"
+"Rockville, MD, United States",92.66,64.0,78.84,87.76,74.74,130.79,United States,North America,"Rockville, MD"
+"Bloomington, IN, United States",92.14,33.64,63.93,112.83,75.43,96.92,United States,North America,"Bloomington, IN"
+"Washington, DC, United States",91.94,73.3,82.95,92.74,85.0,120.62,United States,North America,"Washington, DC"
+"Santa Rosa, CA, United States",90.23,58.13,74.75,92.05,78.34,106.77,United States,North America,"Santa Rosa, CA"
+"Arlington, VA, United States",89.2,61.85,76.01,88.51,82.63,120.53,United States,North America,"Arlington, VA"
+"Bellevue, WA, United States",88.85,66.67,78.15,88.43,80.99,73.46,United States,North America,"Bellevue, WA"
+"Seattle, WA, United States",88.04,64.41,76.64,89.85,83.22,144.6,United States,North America,"Seattle, WA"
+"Berkeley, CA, United States",87.82,78.69,83.42,97.88,78.29,115.84,United States,North America,"Berkeley, CA"
+"Boston, MA, United States",87.05,78.72,83.03,88.99,86.2,101.35,United States,North America,"Boston, MA"
+"Charleston, SC, United States",86.19,45.99,66.8,98.41,71.87,115.41,United States,North America,"Charleston, SC"
+"Miami, FL, United States",86.01,63.2,75.01,87.37,95.81,97.81,United States,North America,"Miami, FL"
+"Oakland, CA, United States",85.11,79.57,82.44,88.65,81.38,97.94,United States,North America,"Oakland, CA"
+"New Haven, CT, United States",84.13,47.53,66.48,92.86,86.18,127.41,United States,North America,"New Haven, CT"
+"Irvine, CA, United States",83.73,66.26,75.3,89.49,76.5,139.48,United States,North America,"Irvine, CA"
+"Philadelphia, PA, United States",83.46,48.09,66.4,82.24,79.37,116.06,United States,North America,"Philadelphia, PA"
+"San Jose, CA, United States",82.87,81.81,82.36,85.4,83.12,134.82,United States,North America,"San Jose, CA"
+"Tacoma, WA, United States",82.54,36.82,60.49,88.02,72.46,125.1,United States,North America,"Tacoma, WA"
+"Los Angeles, CA, United States",82.3,68.75,75.77,82.73,82.48,109.01,United States,North America,"Los Angeles, CA"
+"Boulder, CO, United States",82.19,53.8,68.5,86.22,74.92,143.02,United States,North America,"Boulder, CO"
+"Portland, ME, United States",81.6,40.73,61.89,86.96,88.58,113.69,United States,North America,"Portland, ME"
+"Minneapolis, MN, United States",81.46,45.65,64.19,87.48,75.88,131.08,United States,North America,"Minneapolis, MN"
+"Norfolk, VA, United States",81.36,43.59,63.14,90.06,81.31,64.42,United States,North America,"Norfolk, VA"
+"Hartford, CT, United States",80.86,42.15,62.19,78.41,86.26,101.57,United States,North America,"Hartford, CT"
+"Queens, NY, United States",80.77,64.73,73.04,74.39,87.27,113.4,United States,North America,"Queens, NY"
+"Albany, NY, United States",80.19,30.82,56.38,83.35,71.86,139.34,United States,North America,"Albany, NY"
+"Chicago, IL, United States",80.16,56.71,68.85,79.14,77.99,119.17,United States,North America,"Chicago, IL"
+"Jersey City, NJ, United States",79.91,66.0,73.2,79.5,85.95,130.99,United States,North America,"Jersey City, NJ"
+"Olympia, WA, United States",79.25,36.06,58.42,77.18,78.7,125.04,United States,North America,"Olympia, WA"
+"Santa Barbara, CA, United States",79.17,71.45,75.45,76.47,87.43,134.38,United States,North America,"Santa Barbara, CA"
+"Eugene, OR, United States",78.94,31.38,56.0,91.86,69.07,109.06,United States,North America,"Eugene, OR"
+"Burlington, VT, United States",78.89,41.89,61.05,82.04,79.41,101.19,United States,North America,"Burlington, VT"
+"Sacramento, CA, United States",78.75,43.34,61.67,80.02,74.2,135.14,United States,North America,"Sacramento, CA"
+"Pittsburgh, PA, United States",78.66,39.02,59.54,76.56,70.89,133.38,United States,North America,"Pittsburgh, PA"
+"Portland, OR, United States",78.45,51.72,65.56,79.56,68.4,125.57,United States,North America,"Portland, OR"
+"Saint Paul, MN, United States",78.37,40.38,60.05,81.15,74.68,97.64,United States,North America,"Saint Paul, MN"
+"Long Beach, CA, United States",78.23,54.98,67.01,82.77,76.98,127.25,United States,North America,"Long Beach, CA"
+"Fort Lauderdale, FL, United States",77.67,51.63,65.11,79.05,77.85,104.35,United States,North America,"Fort Lauderdale, FL"
+"Everett, WA, United States",77.63,42.48,60.68,84.84,70.29,113.75,United States,North America,"Everett, WA"
+"Asheville, NC, United States",77.36,37.85,58.31,84.94,72.18,111.73,United States,North America,"Asheville, NC"
+"Denver, CO, United States",77.31,54.0,66.07,77.48,79.43,130.1,United States,North America,"Denver, CO"
+"Bellingham, WA, United States",77.13,34.7,56.67,79.09,77.88,131.14,United States,North America,"Bellingham, WA"
+"Melbourne, FL, United States",77.09,29.38,54.08,85.53,77.04,128.34,United States,North America,"Melbourne, FL"
+"San Diego, CA, United States",77.01,61.91,69.73,75.09,82.09,142.72,United States,North America,"San Diego, CA"
+"New Orleans, LA, United States",76.64,40.21,59.07,75.15,84.0,116.56,United States,North America,"New Orleans, LA"
+"Orlando, FL, United States",76.63,37.35,57.68,82.77,69.38,129.02,United States,North America,"Orlando, FL"
+"Baltimore, MD, United States",76.57,45.03,61.36,73.92,80.16,116.79,United States,North America,"Baltimore, MD"
+"Tampa, FL, United States",76.53,42.09,59.92,80.64,80.21,144.43,United States,North America,"Tampa, FL"
+"West Palm Beach, FL, United States",76.52,43.11,60.41,79.59,78.92,124.36,United States,North America,"West Palm Beach, FL"
+"Colorado Springs, CO, United States",75.42,31.21,54.1,72.93,76.48,150.89,United States,North America,"Colorado Springs, CO"
+"Charlotte, NC, United States",75.35,40.62,58.6,79.4,73.87,112.72,United States,North America,"Charlotte, NC"
+"Plano, TX, United States",75.32,40.02,58.3,73.93,63.49,101.69,United States,North America,"Plano, TX"
+"Atlanta, GA, United States",74.97,45.83,60.92,75.0,74.81,153.77,United States,North America,"Atlanta, GA"
+"Fayetteville, AR, United States",74.9,24.85,50.76,81.39,69.15,104.92,United States,North America,"Fayetteville, AR"
+"Indianapolis, IN, United States",74.72,35.67,55.89,73.92,74.26,94.22,United States,North America,"Indianapolis, IN"
+"Birmingham, AL, United States",74.64,31.36,53.77,76.12,74.13,134.55,United States,North America,"Birmingham, AL"
+"Augusta, GA, United States",74.29,22.45,49.29,82.42,62.66,100.38,United States,North America,"Augusta, GA"
+"Greensboro, NC, United States",74.1,26.05,50.93,80.28,62.04,141.87,United States,North America,"Greensboro, NC"
+"Greenville, SC, United States",74.08,36.03,55.73,83.74,67.18,127.49,United States,North America,"Greenville, SC"
+"Jacksonville, FL, United States",73.58,32.27,53.66,77.14,73.25,117.13,United States,North America,"Jacksonville, FL"
+"Fort Collins, CO, United States",73.57,42.07,58.38,81.45,61.31,73.23,United States,North America,"Fort Collins, CO"
+"Cleveland, OH, United States",73.47,28.35,51.71,67.52,74.7,146.27,United States,North America,"Cleveland, OH"
+"Milwaukee, WI, United States",73.37,35.5,55.11,71.9,71.59,139.23,United States,North America,"Milwaukee, WI"
+"Saint Petersburg, FL, United States",73.29,41.01,57.72,72.82,75.33,145.31,United States,North America,"Saint Petersburg, FL"
+"Memphis, TN, United States",72.95,27.52,51.04,73.96,70.71,154.91,United States,North America,"Memphis, TN"
+"Syracuse, NY, United States",72.88,30.77,52.57,72.26,67.76,103.63,United States,North America,"Syracuse, NY"
+"Newark, NJ, United States",72.68,40.31,57.07,66.47,77.87,94.1,United States,North America,"Newark, NJ"
+"Akron, OH, United States",72.65,21.57,48.02,77.33,63.79,99.21,United States,North America,"Akron, OH"
+"Austin, TX, United States",72.46,49.8,61.53,73.02,75.56,140.39,United States,North America,"Austin, TX"
+"Fresno, CA, United States",72.36,30.94,52.38,72.51,75.89,110.71,United States,North America,"Fresno, CA"
+"Buffalo, NY, United States",72.15,28.94,51.31,69.14,72.72,120.23,United States,North America,"Buffalo, NY"
+"Shreveport, LA, United States",72.07,25.24,49.48,78.42,64.04,76.03,United States,North America,"Shreveport, LA"
+"Nashville, TN, United States",71.88,47.73,60.23,74.28,69.38,125.4,United States,North America,"Nashville, TN"
+"Manchester, NH, United States",71.46,33.61,53.2,76.26,72.86,124.75,United States,North America,"Manchester, NH"
+"Raleigh, NC, United States",71.4,37.42,55.02,78.32,70.58,131.99,United States,North America,"Raleigh, NC"
+"Little Rock, AR, United States",71.29,24.83,48.89,77.24,64.98,132.31,United States,North America,"Little Rock, AR"
+"Richmond, VA, United States",70.98,36.18,54.2,77.66,65.74,133.08,United States,North America,"Richmond, VA"
+"Las Vegas, NV, United States",70.97,29.98,51.2,66.54,74.53,148.81,United States,North America,"Las Vegas, NV"
+"Saint Louis, MO, United States",70.76,30.11,51.15,71.33,68.14,144.7,United States,North America,"Saint Louis, MO"
+"Grand Rapids, MI, United States",70.58,32.95,52.43,69.69,70.77,143.87,United States,North America,"Grand Rapids, MI"
+"Rochester, NY, United States",70.52,30.31,51.13,72.96,74.66,158.71,United States,North America,"Rochester, NY"
+"Houston, TX, United States",70.37,44.1,57.7,71.01,71.15,145.38,United States,North America,"Houston, TX"
+"Detroit, MI, United States",70.2,35.48,53.45,67.02,59.3,131.62,United States,North America,"Detroit, MI"
+"Ann Arbor, MI, United States",70.01,45.26,58.07,69.31,62.97,163.57,United States,North America,"Ann Arbor, MI"
+"Harrisburg, PA, United States",69.91,27.78,49.59,72.58,66.41,140.56,United States,North America,"Harrisburg, PA"
+"Salem, OR, United States",69.81,32.0,51.58,70.61,68.39,106.58,United States,North America,"Salem, OR"
+"Dayton, OH, United States",69.76,21.96,46.71,73.53,62.38,114.2,United States,North America,"Dayton, OH"
+"Columbia, SC, United States",69.7,29.48,50.3,75.37,65.65,92.47,United States,North America,"Columbia, SC"
+"Fort Wayne, IN, United States",69.42,21.43,46.28,74.49,69.24,129.87,United States,North America,"Fort Wayne, IN"
+"Des Moines, IA, United States",69.37,31.23,50.97,73.45,63.64,125.85,United States,North America,"Des Moines, IA"
+"Virginia Beach, VA, United States",69.33,37.42,53.94,68.92,71.08,151.73,United States,North America,"Virginia Beach, VA"
+"Spokane, WA, United States",69.26,26.97,48.86,70.06,64.46,135.55,United States,North America,"Spokane, WA"
+"Bakersfield, CA, United States",69.2,29.09,49.86,71.91,64.38,120.54,United States,North America,"Bakersfield, CA"
+"Columbus, OH, United States",69.13,35.51,52.92,66.96,62.16,125.47,United States,North America,"Columbus, OH"
+"Cincinnati, OH, United States",69.13,31.11,50.79,61.6,70.4,136.92,United States,North America,"Cincinnati, OH"
+"Kansas City, MO, United States",69.05,29.33,49.89,68.17,63.04,135.76,United States,North America,"Kansas City, MO"
+"Lincoln, NE, United States",68.61,28.38,49.21,71.56,62.02,124.13,United States,North America,"Lincoln, NE"
+"Fort Myers, FL, United States",68.06,31.9,50.62,71.88,62.43,86.87,United States,North America,"Fort Myers, FL"
+"Lexington, KY, United States",67.9,25.51,47.45,69.03,62.48,130.77,United States,North America,"Lexington, KY"
+"Fort Worth, TX, United States",67.81,35.29,52.12,66.57,65.5,142.22,United States,North America,"Fort Worth, TX"
+"Omaha, NE, United States",67.8,30.43,49.78,69.41,62.64,134.51,United States,North America,"Omaha, NE"
+"Vancouver, WA, United States",67.79,34.12,51.55,61.12,67.28,127.95,United States,North America,"Vancouver, WA"
+"Wichita, KS, United States",67.02,24.63,46.58,67.02,68.1,118.39,United States,North America,"Wichita, KS"
+"Lubbock, TX, United States",66.9,24.63,46.52,61.64,68.94,133.25,United States,North America,"Lubbock, TX"
+"Chattanooga, TN, United States",66.89,27.77,48.02,67.8,62.68,145.27,United States,North America,"Chattanooga, TN"
+"Phoenix, AZ, United States",66.87,33.32,50.69,62.4,71.42,139.29,United States,North America,"Phoenix, AZ"
+"Sioux Falls, SD, United States",66.85,25.7,47.0,69.13,56.18,168.93,United States,North America,"Sioux Falls, SD"
+"Salt Lake City, UT, United States",66.76,34.91,51.4,64.48,68.75,148.6,United States,North America,"Salt Lake City, UT"
+"Tulsa, OK, United States",66.71,28.61,48.34,67.6,62.03,123.2,United States,North America,"Tulsa, OK"
+"Durham, NC, United States",66.44,35.54,51.54,64.75,67.79,146.95,United States,North America,"Durham, NC"
+"Springfield, MO, United States",66.4,18.79,43.44,73.6,63.28,77.68,United States,North America,"Springfield, MO"
+"Winston-salem, NC, United States",66.27,24.96,46.34,71.92,69.63,117.44,United States,North America,"Winston-salem, NC"
+"Dallas, TX, United States",65.94,42.64,54.7,61.95,67.11,162.37,United States,North America,"Dallas, TX"
+"Albuquerque, NM, United States",65.73,25.5,46.33,68.04,64.58,123.57,United States,North America,"Albuquerque, NM"
+"Arlington, TX, United States",65.63,30.04,48.47,62.02,63.87,152.9,United States,North America,"Arlington, TX"
+"Madison, WI, United States",65.6,36.95,51.78,62.5,66.34,144.83,United States,North America,"Madison, WI"
+"Mobile, AL, United States",65.31,24.63,45.69,67.4,64.09,122.2,United States,North America,"Mobile, AL"
+"Louisville, KY, United States",65.14,28.33,47.39,65.76,65.91,127.21,United States,North America,"Louisville, KY"
+"Pensacola, FL, United States",64.88,28.72,47.44,62.12,64.75,128.73,United States,North America,"Pensacola, FL"
+"Oklahoma City, OK, United States",64.29,26.54,46.09,66.52,58.15,142.4,United States,North America,"Oklahoma City, OK"
+"Huntsville, AL, United States",63.34,27.45,46.03,64.13,63.83,152.26,United States,North America,"Huntsville, AL"
+"Tucson, AZ, United States",63.0,23.8,44.1,61.12,63.64,138.07,United States,North America,"Tucson, AZ"
+"Reno, NV, United States",62.88,35.99,49.92,58.04,64.1,136.4,United States,North America,"Reno, NV"
+"Boise, ID, United States",62.65,28.91,46.37,58.7,65.39,130.86,United States,North America,"Boise, ID"
+"Knoxville, TN, United States",62.18,29.77,46.55,60.36,64.67,128.69,United States,North America,"Knoxville, TN"
+"College Station, TX, United States",61.85,32.7,47.79,68.95,57.12,118.7,United States,North America,"College Station, TX"
+"San Antonio, TX, United States",60.92,34.5,48.18,58.17,60.96,154.92,United States,North America,"San Antonio, TX"
+"Athens, GA, United States",60.55,26.67,44.21,57.85,59.58,110.52,United States,North America,"Athens, GA"
 "Stockholm, Sweden",90.85,45.27,68.87,84.06,93.71,108.2,Sweden,Europe,Stockholm
 "Gothenburg, Sweden",84.38,30.46,58.38,77.45,91.06,112.1,Sweden,Europe,Gothenburg
 "Malmo, Sweden",79.79,28.57,55.09,73.61,87.62,120.92,Sweden,Europe,Malmo
@@ -269,7 +269,7 @@ City,Cost_of_Living_Index,Rent_Index,Cost_of_Living_Plus_Rent_Index,Groceries_In
 "Hanover, Germany",69.47,22.04,46.59,58.88,64.04,160.86,Germany,Europe,Hanover
 "Sliema, Malta",78.94,36.17,58.32,69.3,89.2,74.89,Malta,Europe,Sliema
 "Malta, Malta",68.44,26.6,48.26,54.11,69.0,72.13,Malta,Europe,Malta
-"St. John's, NL, Canada",82.18,22.48,53.39,86.39,79.73,98.06,Canada,North America,St. John's
+"St. John's, NL, Canada",82.18,22.48,53.39,86.39,79.73,98.06,Canada,North America,"St. John's, NL"
 "Halifax, Canada",82.03,29.33,56.61,88.57,75.91,95.7,Canada,North America,Halifax
 "Thunder Bay, Canada",81.98,26.2,55.08,77.76,74.63,84.87,Canada,North America,Thunder Bay
 "Saskatoon, Canada",81.02,29.7,56.27,82.39,72.78,99.63,Canada,North America,Saskatoon
@@ -288,7 +288,7 @@ City,Cost_of_Living_Index,Rent_Index,Cost_of_Living_Plus_Rent_Index,Groceries_In
 "Regina, Canada",72.85,28.93,51.67,73.25,66.3,109.12,Canada,North America,Regina
 "Mississauga, Canada",72.54,36.65,55.23,68.46,67.15,106.67,Canada,North America,Mississauga
 "Windsor, Canada",72.0,21.38,47.59,63.4,67.16,118.85,Canada,North America,Windsor
-"Nanaimo, BC, Canada",71.9,25.11,49.33,78.03,63.87,99.07,Canada,North America,Nanaimo
+"Nanaimo, BC, Canada",71.9,25.11,49.33,78.03,63.87,99.07,Canada,North America,"Nanaimo, BC"
 "Moncton, Canada",71.79,18.63,46.15,70.92,66.98,88.06,Canada,North America,Moncton
 "Winnipeg, Canada",71.22,24.91,48.89,69.49,67.33,114.61,Canada,North America,Winnipeg
 "Quebec City, Canada",71.21,17.97,45.53,71.69,65.29,118.31,Canada,North America,Quebec City
